@@ -1,6 +1,6 @@
 # Hi, I'm Reza 👋
 
-### Junior Data Analyst & Scientist | Python | SQL | Power BI | Machine Learning
+### Junior Data Analyst & Scientist 
 
 I'm an Informatics student focused on Data Analytics,
 Machine Learning, and Data Engineering.
@@ -32,7 +32,7 @@ and building data-driven solutions for business problems.
 
 ### Data Science & Machine Learning
 - Scikit-learn
-- TensorFlow / Keras
+- TensorFlow
 - Feature Engineering
 - Model Evaluation
 - Exploratory Data Analysis
