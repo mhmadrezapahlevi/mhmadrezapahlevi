@@ -1,4 +1,4 @@
-# Hi, I'm Reza 👋
+# Hi, I'm Reza 
 
 ### Junior Data Analyst & Scientist 
 
@@ -61,7 +61,6 @@ and regional performance.
 
 🔗 [View Project](https://github.com/mhmadrezapahlevi/retail-sales-analytics)
 
----
 
 ###  Customer Analytics & Churn Prediction
 
@@ -70,7 +69,6 @@ and machine learning to identify high-value and at-risk customers.
 
 🔗 [View Project](https://github.com/mhmadrezapahlevi/customer-analytics-churn)
 
----
 
 ##  Currently Learning
 
@@ -85,6 +83,6 @@ and machine learning to identify high-value and at-risk customers.
 
 ##  Contact
 
-📧 Email: muhamadrezapahlevi60@gmail.com
+ Email: muhamadrezapahlevi60@gmail.com
 
-💻 GitHub: https://github.com/mhmadrezapahlevi
+ GitHub: https://github.com/mhmadrezapahlevi
