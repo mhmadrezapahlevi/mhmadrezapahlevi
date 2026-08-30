@@ -61,6 +61,7 @@ and regional performance.
 
 🔗 [View Project](https://github.com/mhmadrezapahlevi/retail-sales-analytics)
 
+---
 
 ###  Customer Analytics & Churn Prediction
 
@@ -69,6 +70,7 @@ and machine learning to identify high-value and at-risk customers.
 
 🔗 [View Project](https://github.com/mhmadrezapahlevi/customer-analytics-churn)
 
+---
 
 ##  Currently Learning
 
