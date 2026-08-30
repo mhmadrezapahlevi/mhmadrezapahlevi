@@ -10,17 +10,17 @@ and building data-driven solutions for business problems.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Informatics student
-- 📊 Interested in Data Analytics & Business Intelligence
-- 🤖 Interested in Machine Learning
-- 🛠️ Learning Data Engineering & Automation
-- 📍 Bandung, Indonesia
+-  Informatics student
+-  Interested in Data Analytics & Business Intelligence
+-  Interested in Machine Learning
+-  Learning Data Engineering & Automation
+-  Bandung, Indonesia
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Data Analytics
 - SQL
@@ -51,9 +51,9 @@ and building data-driven solutions for business problems.
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 🛒 Retail Sales Analytics
+###  Retail Sales Analytics
 
 End-to-end analysis of retail sales data using Python and SQL
 to identify sales trends, product performance, customer behavior,
@@ -63,7 +63,7 @@ and regional performance.
 
 ---
 
-### 👥 Customer Analytics & Churn Prediction
+###  Customer Analytics & Churn Prediction
 
 Customer segmentation and churn prediction using RFM analysis
 and machine learning to identify high-value and at-risk customers.
@@ -72,7 +72,7 @@ and machine learning to identify high-value and at-risk customers.
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Advanced SQL
 - Power BI & DAX
@@ -83,7 +83,7 @@ and machine learning to identify high-value and at-risk customers.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 Email: muhamadrezapahlevi60@gmail.com
 
