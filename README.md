@@ -1,35 +1,79 @@
 # Hi, I'm Reza 👋
 
-### Junior Data Analyst • Data Scientist • Informatics Student
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Data%20Driven%20%7C%20Problem%20Solver&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Reza%20Pahlevi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Building+Data-Driven+Solutions;Exploring+Machine+Learning;Learning+Data+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Junior+Data+Analyst;Aspiring+Data+Scientist;Informatics+Student;Turning+Data+Into+Insights" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhmadrezapahlevi">
+    <img src="https://img.shields.io/github/followers/mhmadrezapahlevi?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/mhmadrezapahlevi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/mhmadrezapahlevi?label=Stars&style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-> I'm an Informatics student focused on transforming data into meaningful insights and building practical data-driven solutions.
+I'm an **Informatics student** focused on **Data Analytics, Machine Learning, and Data Engineering**.
+
+I enjoy transforming raw data into meaningful insights and building practical, data-driven solutions for real-world problems.
 
 * 🎓 Informatics Student
 * 📊 Data Analytics & Business Intelligence
 * 🤖 Machine Learning & Data Science
-* 🐍 Python & SQL enthusiast
-* ⚙️ Exploring Data Engineering & Automation
-* 🔎 Interested in solving real-world problems with data
+* 🐍 Python & SQL
+* ⚙️ Data Engineering & Automation
+* 🔍 Exploratory Data Analysis
+* 📈 Data Visualization
 * 📍 Bandung, Indonesia
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 What I Do
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Data Analytics
+
+Turning raw datasets into meaningful insights through data cleaning, exploration, visualization, and statistical analysis.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Machine Learning
+
+Building and evaluating machine learning models to solve classification, prediction, and business problems.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Data Engineering
+
+Learning how to build reliable data pipelines, work with databases, APIs, ETL processes, and automated workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
 `Python` `SQL` `Pandas` `NumPy` `Excel` `Power BI`
@@ -39,7 +83,7 @@
 ### 🤖 Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 `Scikit-learn` `TensorFlow` `Keras` `Feature Engineering`
@@ -50,7 +94,7 @@
 ### ⚙️ Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github" />
 </p>
 
 `ETL` `REST API` `Data Pipelines` `Database Design`
@@ -60,7 +104,7 @@
 ### 💻 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript" />
 </p>
 
 `PHP` `Laravel` `JavaScript` `HTML` `CSS`
@@ -70,131 +114,134 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 `Jupyter Notebook` `Google Colab` `Kaggle`
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmadrezapahlevi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadrezapahlevi&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mhmadrezapahlevi&theme=flat&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmadrezapahlevi&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 💻 Data & Development Focus
-
-| Focus Area               | Description                                                                |
-| ------------------------ | -------------------------------------------------------------------------- |
-| 📊 Data Analytics        | Exploring datasets, identifying trends, and generating actionable insights |
-| 📈 Business Intelligence | Creating dashboards and reports to support business decisions              |
-| 🤖 Machine Learning      | Building and evaluating predictive models                                  |
-| 🧹 Data Preparation      | Cleaning, transforming, and preparing raw datasets                         |
-| ⚙️ Data Engineering      | Learning ETL, APIs, databases, and data pipelines                          |
-| 💻 Data Applications     | Building practical applications around data                                |
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Retail Sales Analytics
 
-End-to-end retail sales analysis using Python and SQL to identify sales trends, product performance, customer behavior, and regional performance.
+End-to-end retail sales analysis using **Python and SQL** to identify sales trends, product performance, customer behavior, and regional performance.
 
-**Tech:** Python • Pandas • SQL • Data Visualization
+**Tech Stack**
 
-🔗 [View Project](https://github.com/mhmadrezapahlevi/retail-sales-analytics)
+`Python` `Pandas` `SQL` `Data Visualization`
+
+🔗 **[View Project →](https://github.com/mhmadrezapahlevi/retail-sales-analytics)**
 
 ---
 
 ### 👥 Customer Analytics & Churn Prediction
 
-Customer segmentation and churn prediction using RFM analysis and machine learning to identify high-value customers and customers at risk of churn.
+Customer segmentation and churn prediction using **RFM analysis and machine learning** to identify high-value customers and customers at risk of churn.
 
-**Tech:** Python • Pandas • Scikit-learn • Machine Learning
+**Tech Stack**
 
-🔗 [View Project](https://github.com/mhmadrezapahlevi/customer-analytics-churn)
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
 
----
-
-# 📚 Currently Learning
-
-```text
-Advanced SQL
-████████████████░░░░ 80%
-
-Power BI & DAX
-██████████████░░░░░░ 70%
-
-Statistics
-██████████████░░░░░░ 70%
-
-Machine Learning
-████████████░░░░░░░░ 60%
-
-Data Engineering
-██████████░░░░░░░░░░ 50%
-
-Automation
-████████░░░░░░░░░░░░ 40%
-```
+🔗 **[View Project →](https://github.com/mhmadrezapahlevi/customer-analytics-churn)**
 
 ---
 
-# 🌐 Connect With Me
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mhmadrezapahlevi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadrezapahlevi&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmadrezapahlevi&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmadrezapahlevi&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 📚 Currently Learning
 
 <p align="center">
 
-<a href="mailto:muhamadrezapahlevi60@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mhmadrezapahlevi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Advanced SQL` • `Power BI` • `DAX` • `Statistics` • `Machine Learning` • `Data Engineering` • `Automation`
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+## 🎯 Career Focus
+
+```text
+Data Analytics
+      ↓
+Business Intelligence
+      ↓
+Data Science
+      ↓
+Data Engineering
+```
+
+My goal is to continuously improve my ability to turn **data into insights, insights into decisions, and technology into practical solutions.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:muhamadrezapahlevi60@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mhmadrezapahlevi">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <a href="mailto:muhamadrezapahlevi60@gmail.com">
+    muhamadrezapahlevi60@gmail.com
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
 
 > I enjoy turning messy data into clear insights and using technology to solve real-world problems.
 
@@ -208,4 +255,6 @@ Automation
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+</p>
