@@ -171,8 +171,15 @@ Customer segmentation and churn prediction using **RFM analysis and machine lear
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmadrezapahlevi&theme=github-compact&hide_border=true&area=true"/>
+  <a href="https://github.com/mhmadrezapahlevi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mhmadrezapahlevi&theme=github-compact&hide_border=true&area=true&custom_title=Reza's%20GitHub%20Activity"
+      alt="Reza's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
