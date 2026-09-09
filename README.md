@@ -150,10 +150,7 @@ Customer segmentation and churn prediction using **RFM analysis and machine lear
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mhmadrezapahlevi&theme=tokyonight&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF"
-    alt="GitHub Streak"
-    width="600"
+     <img src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/main/streak-stats.svg" width="600" />
   />
 </p>
 
