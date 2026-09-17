@@ -1,120 +1,65 @@
-# Hi, I'm Reza 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhamad%20Reza%20Pahlevi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhamad%20Reza%20Pahlevi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Junior+Data+Analyst;Aspiring+Data+Scientist;Informatics+Student;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Machine+Learning+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/muhamad-reza-pahlevi-028343435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muhamadrezapahlevi60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/mhmadrezapahlevi">
-    <img src="https://img.shields.io/github/followers/mhmadrezapahlevi?label=Followers&style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/mhmadrezapahlevi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mhmadrezapahlevi?label=Stars&style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mhmadrezapahlevi&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **Informatics student** focused on **Data Analytics, Machine Learning, and Data Engineering**.
+Informatics student from **Bandung, Indonesia** 🇮🇩, focused on **Data Analytics, Machine Learning, and Data Engineering**.
 
 I enjoy transforming raw data into meaningful insights and building practical, data-driven solutions for real-world problems.
 
-* 🎓 Informatics Student
-* 📊 Data Analytics & Business Intelligence
-* 🤖 Machine Learning & Data Science
-* 🐍 Python & SQL
-* ⚙️ Data Engineering & Automation
-* 🔍 Exploratory Data Analysis
-* 📈 Data Visualization
-* 📍 Bandung, Indonesia
-
----
-
-## 🧠 What I Do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📊 Data Analytics
-
-Turning raw datasets into meaningful insights through data cleaning, exploration, visualization, and statistical analysis.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 Machine Learning
-
-Building and evaluating machine learning models to solve classification, prediction, and business problems.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Data Engineering
-
-Learning how to build reliable data pipelines, work with databases, APIs, ETL processes, and automated workflows.
-
-</td>
-</tr>
-</table>
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Data Science
+- ⚙️ Data Engineering & Automation
+- 🔍 Exploratory Data Analysis & Visualization
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
-`Python` `SQL` `Pandas` `NumPy` `Excel` `Power BI`
-
----
+`Pandas` `NumPy` `Excel` `Power BI` `EDA` `Data Visualization`
 
 ### 🤖 Data Science & Machine Learning
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
 </p>
 
-`Scikit-learn` `TensorFlow` `Keras` `Feature Engineering`
-`EDA` `Classification` `Regression` `Model Evaluation`
-
----
+`Scikit-learn` `TensorFlow` `Feature Engineering` `Classification` `Regression` `Model Evaluation`
 
 ### ⚙️ Data Engineering
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github" />
 </p>
 
 `ETL` `REST API` `Data Pipelines` `Database Design`
 
----
-
-### 💻 Development
-
+### 💻 Development & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript" />
-</p>
-
-`PHP` `Laravel` `JavaScript` `HTML` `CSS`
-
----
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma" />
 </p>
 
 `Jupyter Notebook` `Google Colab` `Kaggle`
@@ -123,49 +68,53 @@ Learning how to build reliable data pipelines, work with databases, APIs, ETL pr
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📊 Retail Sales Analytics
 
 End-to-end retail sales analysis using **Python and SQL** to identify sales trends, product performance, customer behavior, and regional performance.
-
-**Tech Stack**
 
 `Python` `Pandas` `SQL` `Data Visualization`
 
 🔗 **[View Project →](https://github.com/mhmadrezapahlevi/retail-sales-analytics)**
 
----
+</td>
+<td width="50%">
 
 ### 👥 Customer Analytics & Churn Prediction
 
 Customer segmentation and churn prediction using **RFM analysis and machine learning** to identify high-value customers and customers at risk of churn.
 
-**Tech Stack**
-
 `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
 🔗 **[View Project →](https://github.com/mhmadrezapahlevi/customer-analytics-churn)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=mhmadrezapahlevi&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF"
-    alt="GitHub Streak"
-    width="600"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmadrezapahlevi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadrezapahlevi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mhmadrezapahlevi&theme=tokyonight&hide_border=true&background=0D1117" width="600"/>
+</p>
 
 ---
-
 
 ## 📚 Currently Learning
 
 <p align="center">
 
-`Advanced SQL` • `Power BI` • `DAX` • `Statistics` • `Machine Learning` • `Data Engineering` • `Automation`
+`Advanced SQL` • `Power BI & DAX` • `Statistics` • `Machine Learning` • `Data Engineering` • `Automation`
 
 </p>
 
@@ -173,56 +122,16 @@ Customer segmentation and churn prediction using **RFM analysis and machine lear
 
 ## 🎯 Career Focus
 
-```text
-Data Analytics
-      ↓
-Business Intelligence
-      ↓
-Data Science
-      ↓
-Data Engineering
-```
+**Data Analytics → Business Intelligence → Data Science → Data Engineering**
 
 My goal is to continuously improve my ability to turn **data into insights, insights into decisions, and technology into practical solutions.**
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-
-<a href="mailto:muhamadrezapahlevi60@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mhmadrezapahlevi">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <b>Learning • Building • Analyzing • Improving</b>
 </p>
 
 <p align="center">
-  <a href="mailto:muhamadrezapahlevi60@gmail.com">
-    muhamadrezapahlevi60@gmail.com
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy turning messy data into clear insights and using technology to solve real-world problems.
-
----
-
-<p align="center">
-
-### Thanks for visiting my profile! 👋
-
-**Learning • Building • Analyzing • Improving**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </p>
