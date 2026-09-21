@@ -1,8 +1,10 @@
-<!-- Github Profile README - MRPvi_ -->  <h1 align="center">{ "name": "MRPVI" }</h1>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph.svg">
 </picture>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhamad%20Reza%20Pahlevi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
