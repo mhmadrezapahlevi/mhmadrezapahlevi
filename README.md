@@ -31,14 +31,15 @@
 
 ## 👨‍💻 About Me
 
-Informatics student from **Bandung, Indonesia** 🇮🇩, focused on **Data Analytics, Machine Learning, and Data Engineering**.
+Informatics student from **Bandung, Indonesia** 🇮🇩, focused on **Data Analytics, Machine Learning,Data Engineering, and Software Development**.
 
 I enjoy transforming raw data into meaningful insights and building practical, data-driven solutions for real-world problems.
 
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Machine Learning & Data Science
-- ⚙️ Data Engineering & Automation
-- 🔍 Exploratory Data Analysis & Visualization
+-  Data Analytics & Business Intelligence
+-  Machine Learning & Data Science
+-  Data Engineering & Automation
+-  Exploratory Data Analysis & Visualization
+-  Software Defelopment & Engineering
 
 ---
 
@@ -46,7 +47,7 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql," />
 </p>
 
 `Pandas` `NumPy` `Excel` `Power BI` `EDA` `Data Visualization`
@@ -67,7 +68,7 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ### 💻 Development & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma,typescript,c" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma,typescript,c,mongodb" />
 </p>
 
 `Jupyter Notebook` `Google Colab` `Kaggle`
