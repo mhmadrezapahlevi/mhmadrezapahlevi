@@ -67,7 +67,7 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ### 💻 Development & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma,typescript,c++" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma,typescript,c+" />
 </p>
 
 `Jupyter Notebook` `Google Colab` `Kaggle`
