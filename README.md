@@ -116,7 +116,6 @@ Customer segmentation and churn prediction using **RFM analysis and machine lear
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
 ## 📚 Currently Learning
 
