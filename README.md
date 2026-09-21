@@ -39,7 +39,7 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 -  Machine Learning & Data Science
 -  Data Engineering & Automation
 -  Exploratory Data Analysis & Visualization
--  Software Defelopment & Engineering
+-  Software Development & Engineering
 
 ---
 
