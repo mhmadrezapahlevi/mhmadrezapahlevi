@@ -110,6 +110,14 @@ Customer segmentation and churn prediction using **RFM analysis and machine lear
 
 ---
 
+<h1 align="center">{ "name": "MRPVI" }</h1>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mhmadrezapahlevi/mhmadrezapahlevi/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📚 Currently Learning
 
 <p align="center">
