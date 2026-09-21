@@ -7,11 +7,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhamad%20Reza%20Pahlevi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhamad%20Reza%20Pahlevi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Machine+Learning+%7C+Data+Engineering+%7C+Software+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Machine+Learning+%7C+Software+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
