@@ -46,7 +46,7 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb" />
 </p>
 
 `Pandas` `NumPy` `Excel` `Power BI` `EDA` `Data Visualization`
@@ -67,43 +67,13 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ### 💻 Development & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,vscode,figma,typescript" />
 </p>
 
 `Jupyter Notebook` `Google Colab` `Kaggle`
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Retail Sales Analytics
-
-End-to-end retail sales analysis using **Python and SQL** to identify sales trends, product performance, customer behavior, and regional performance.
-
-`Python` `Pandas` `SQL` `Data Visualization`
-
-🔗 **[View Project →](https://github.com/mhmadrezapahlevi/retail-sales-analytics)**
-
-</td>
-<td width="50%">
-
-### 👥 Customer Analytics & Churn Prediction
-
-Customer segmentation and churn prediction using **RFM analysis and machine learning** to identify high-value customers and customers at risk of churn.
-
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
-
-🔗 **[View Project →](https://github.com/mhmadrezapahlevi/customer-analytics-churn)**
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
