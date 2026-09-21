@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Machine+Learning+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Machine+Learning+%7C+Data+Engineering+%7C+Software+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
