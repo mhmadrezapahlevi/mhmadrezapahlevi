@@ -115,3 +115,5 @@ My goal is to continuously improve my ability to turn **data into insights, insi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </p>
+
+Mencoba achievement YOLO di repo yang sudah ada.
