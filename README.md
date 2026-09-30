@@ -100,14 +100,6 @@ I enjoy transforming raw data into meaningful insights and building practical, d
 
 ---
 
-## 🎯 Career Focus
-
-**Data Analytics → Business Intelligence → Data Science → Data Engineering**
-
-My goal is to continuously improve my ability to turn **data into insights, insights into decisions, and technology into practical solutions.**
-
----
-
 <p align="center">
   <b>Learning • Building • Analyzing • Improving</b>
 </p>
@@ -116,4 +108,3 @@ My goal is to continuously improve my ability to turn **data into insights, insi
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </p>
 
-Mencoba achievement YOLO di repo yang sudah ada.
